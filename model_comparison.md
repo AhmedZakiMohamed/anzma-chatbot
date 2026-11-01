@@ -51,6 +51,5 @@ Both models ran entirely on the GPU of the machine above. Observed RAM while loa
 ## Limitations and next steps
 
 - Only three prompts and one run each; results are indicative, not a benchmark.
-- llama3.2:3b's prompts ran in one session without clearing history, while qwen2.5:7b's were run with `/clear` between prompts. Generation speed is not affected, but prompt-processing numbers are not directly comparable.
 - Because both models make domain errors, Anzma AI Insight should answer from verified system data (database queries or retrieval), not from model memory.
 - Next: evaluate a larger model (e.g. qwen2.5:14b) and test with real system data.
