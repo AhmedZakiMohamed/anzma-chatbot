@@ -24,7 +24,7 @@ This is the first building block of Anzma AI Insight, where data from ELV and bu
 3. **Clone this repository and enter it:**
 
    ```bash
-   git clone https://github.com/AhmedZakiMohamed/anzma-chabot
+   git clone https://github.com/AhmedZakiMohamed/anzma-chabot.git
    cd anzma-chatbot
    ```
 
